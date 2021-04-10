@@ -1,0 +1,1 @@
+Hi there! Welcome to my recipe for making delicious easy to cook pancakes! To check the ingredients, go to ingredients.md. For the recipe, go to recipe.md.
